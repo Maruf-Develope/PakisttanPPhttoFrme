@@ -1,9 +1,6 @@
 {
 
   "square":[
-    "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/PTipartyPhotFrme/sqr/pti1.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/PTipartyPhotFrme/sqr/pti2.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/PTipartyPhotFrme/sqr/pti3.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/PTipartyPhotFrme/sqr/pti4.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/PTipartyPhotFrme/sqr/pti5.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/PTipartyPhotFrme/sqr/pti6.webp",
@@ -26,10 +23,8 @@
     "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/PTipartyPhotFrme/sqr/pti23.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/PTipartyPhotFrme/sqr/pti24.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/PTipartyPhotFrme/sqr/pti25.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/PTipartyPhotFrme/sqr/pti26.webp",
     
     "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/PTipartyPhotFrme/sqr/pti_pro1.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/PTipartyPhotFrme/sqr/pti_pro2.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/PTipartyPhotFrme/sqr/pti_pro3.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/PTipartyPhotFrme/sqr/pti_pro4.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/PTipartyPhotFrme/sqr/pti_pro5.webp",
