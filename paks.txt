@@ -1,0 +1,54 @@
+{ 
+  "square":[
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/squr/f1.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/squr/f2.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/squr/f3.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/squr/f4.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/squr/f5.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/squr/f6.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/squr/f7.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/squr/f8.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/squr/f9.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/squr/f10.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/squr/f11.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/squr/f12.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/squr/f13.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/squr/f14.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/squr/f15.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/squr/f16.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/squr/f17.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/squr/f18.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/squr/f19.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/squr/f20.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/squr/f21.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/squr/f22.webp"
+
+    ],
+  
+  "portrait":[
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/port/f1.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/port/f2.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/port/f3.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/port/f4.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/port/f5.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/port/f6.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/port/f7.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/port/f8.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/port/f9.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/port/f10.webp"
+  
+    ],
+    
+  "landscape":[
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/land/f1.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/land/f2.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/land/f3.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/land/f4.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/land/f5.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/land/f6.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/land/f7.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/land/f8.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/DifancceDday/land/f9.webp"
+  
+    ]
+}
