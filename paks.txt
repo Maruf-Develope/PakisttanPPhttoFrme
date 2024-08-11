@@ -2767,7 +2767,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/PTipartyPhotFrme/sqr/pti22.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/PTipartyPhotFrme/sqr/pti23.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/PTipartyPhotFrme/sqr/pti24.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/PTipartyPhotFrme/sqr/pti25.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PakisttanPPhttoFrme/main/PTipartyPhotFrme/sqr/pti25.webp"
     ],
 
 "square60a":[
